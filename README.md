@@ -1,2 +1,3 @@
-# Italiano
-Repository con gli schemi di italiano
+### Indice
+
+- [Foscolo](./Foscolo.md)
