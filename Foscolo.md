@@ -50,3 +50,14 @@
   - Composto da 295 endecasillabi sciolti con sintassi complessa e lessico ricercato
   - Stile elevato
   - Critica l'editto di Saint Cloud e argomenta le funzioni delle sepolture
+
+## I suoi doppi
+
+- Jacopo Ortis
+  - Ribelle, fugge da chi ha il potere
+  - La versione irrazionale di Foscolo
+  - Da "Le ultime lettere di Jacopo Ortis"
+- Didimo Chierico
+  - Pacato e calcolatore
+  - La versione razionale di Foscolo
+  - Dalla sua traduzione del "Viaggio Sentimentale"
